@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++, Arduino and Russian
 - 👌 Funfact: I love One Piece,
 -
--   and i use Arch btw
+-    i use Arch btw
 
 <!---
 xoDosu/xoDosu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
