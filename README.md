@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xoDosu
 - 👀 I’m interested in Embedded Systems 
-- 🌱 I’m currently learning C++, Arduino and Russian
+- 🌱 I’m currently learning C++, Arduino and Spanish
 - 👌 Funfact: I love One Piece,
 -
 -    i use Arch btw
